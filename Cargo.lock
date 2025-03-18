@@ -3011,7 +3011,7 @@ dependencies = [
  "informalsystems-malachitebft-proto",
  "informalsystems-malachitebft-test",
  "informalsystems-malachitebft-test-cli",
- "itertools 0.13.0",
+ "itertools 0.14.0",
  "prost",
  "rand 0.8.5",
  "redb",
